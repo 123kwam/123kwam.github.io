@@ -1,0 +1,813 @@
+
+**********************************************************
+MIDIculous 4 4.1.6 (built Mar  1 2022 21:38:18)
+Log started: 5 Oct 2022 12:54:33pm
+
+12:54:33:537: Logger initialized on threadID 52a8 with file: C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Logs\Application Log.log
+12:54:33:619: OS: Windows 10 (64-bit) MajorVersion:6 MinorVersion:2 BuildNumber:9200 PlatformId:2 CSDVersion: ServicePackMajor:0 ServicePackMinor:0 SuiteMask:256 ProductType:1 SM_TABLETPC
+12:54:33:620: Is in App Extension Sandbox: false
+12:54:33:620: User language: en
+12:54:33:621: Device description: Windows (Desktop)
+12:54:33:621: CPU: GenuineIntel Intel(R) Pentium(R) Silver N5030 CPU @ 1.10GHz (1100 MHz)
+12:54:33:622: Logical CPUs: 4
+12:54:33:622: Physical CPUs: 4
+12:54:33:623: RAM: 8012 MB
+12:54:33:623: JUCE_CATCH_UNHANDLED_EXCEPTIONS is on.
+12:54:33:623: JUCE_LOG_ASSERTIONS is off.
+12:54:33:628: AppProperties(): Properties file is valid and saved successfully: 'C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Settings'
+12:54:33:638: AppProperties(): Properties file reloaded successfully: 'C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Settings'
+12:54:33:641: streamingSampleDataFolder not set (undefined). Setting assetInstallFolder to null...
+12:54:33:642: AudioDeviceSettingsStore: Calling AudioDeviceManager::initialiseWithDefaultDevices()...
+12:54:34:843: AudioDeviceSettingsStore: AudioDeviceManager::initialiseWithDefaultDevices() returned successfully.
+12:54:34:844: setAudioAndMidiProcessingEnabled(true)
+12:54:34:847: StandaloneApp: Creating audio processor...
+12:54:34:857: AudioProcessor::wrapperType: Standalone
+12:54:34:865: License is null.
+12:54:34:867: Checking overrides...
+12:54:34:868: No overrides found.
+12:54:34:868: Checking overrides...
+12:54:34:869: No overrides found.
+12:54:34:870: InstalledAssetsManager: No installed products.
+12:54:34:880: unlockedPackIDs: { FactoryLibrary }
+12:54:34:882: VersionFeaturesController::versionDisplayText: Free
+12:54:34:885: PluginScanner: starting shallow scan...
+12:54:34:885: PluginScanner: Shallow scanning format: VST...
+12:54:34:889: PluginScanner: Finished shallow scanning format: VST.
+12:54:34:889: PluginScanner: Shallow scan finished.
+12:54:34:891: PluginScanThread starting...
+12:54:34:892: PluginScanThread finished.
+12:54:34:926: StandaloneApp: Successfully created audio processor.
+12:54:34:927: notifyPlayConfigChanged sampleRate: 48000, samplesPerBlock: 480
+12:54:34:963: StandaloneApp: Creating editor component...
+12:54:35:430: StandaloneApp: Created editor component.
+12:54:35:887: Plugin Scan Result: 0 known plugins and 0 failedFiles.
+12:55:05:651: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+12:55:05:660: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+12:56:24:467: Activating with key: ...
+12:56:24:468: Key is empty.
+12:56:35:750: License is null.
+14:22:00:082: Activating with key: GT8S-9ZZ4-94EK-8TMI...
+14:22:00:951: Refreshing after activation...
+14:22:01:180: Activation successful.
+14:28:45:160: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 720, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+14:28:45:170: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 720, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+14:29:15:092: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+14:29:15:101: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+14:30:07:494: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+14:30:07:503: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+22:35:55:656: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+22:35:55:665: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+23:20:22:757: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:22:771: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:22:834: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:22:866: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:22:900: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:22:933: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:22:966: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:001: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:035: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:069: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:103: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:137: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:171: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:207: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:239: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:274: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:308: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:341: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:410: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:444: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:513: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:547: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:615: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:683: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:718: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:753: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:787: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:822: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:856: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:890: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:924: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:958: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:23:992: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:027: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:061: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:095: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:129: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:162: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:197: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:232: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:266: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:301: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:335: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:370: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:405: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:438: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:472: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:507: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:539: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:574: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:608: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:643: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:676: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:709: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:743: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:777: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:811: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:879: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:914: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:24:981: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:015: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:083: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:119: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:152: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:221: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:255: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:288: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:322: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:390: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:424: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:459: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:494: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:527: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:561: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:594: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:629: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:663: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:698: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:733: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:767: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:802: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:836: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:870: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:903: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:25:940: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:000: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:021: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:086: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:154: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:189: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:222: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:291: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:327: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:393: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:427: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:461: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:496: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:529: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:563: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:598: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:632: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:667: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:713: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:26:783: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:230: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:264: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:299: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:332: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:366: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:400: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:435: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:504: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:537: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:571: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:639: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:673: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:742: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:776: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:810: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:843: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:910: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:30:944: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:31:025: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:31:047: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:31:080: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:31:114: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:31:184: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:20:52:677: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+23:20:52:685: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+23:21:39:703: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:21:51:677: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+23:21:51:685: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+23:21:59:447: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:22:21:690: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+23:22:21:699: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+23:42:22:820: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:42:29:085: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+23:42:29:094: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+23:42:32:571: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 1920, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:43:31:269: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 720, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:43:31:274: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 720, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+23:44:01:197: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+23:44:01:209: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+23:44:33:125: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-05-2022 001.midiculous')
+23:44:33:136: Autosaved to file: 'AutoSave 10-05-2022 001.midiculous'
+23:45:02:115: AppState::saveCurrentPreset('C:\Users\26263\3D Objects\New Playlist.midiculous')
+23:45:02:982: Removing logger...
+
+**********************************************************
+MIDIculous 4 4.1.6 (built Mar  1 2022 21:38:18)
+Log started: 14 Oct 2022 6:25:17pm
+
+18:25:17:933: Logger initialized on threadID 2850 with file: C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Logs\Application Log.log
+18:25:18:015: OS: Windows 10 (64-bit) MajorVersion:6 MinorVersion:2 BuildNumber:9200 PlatformId:2 CSDVersion: ServicePackMajor:0 ServicePackMinor:0 SuiteMask:256 ProductType:1 SM_TABLETPC
+18:25:18:015: Is in App Extension Sandbox: false
+18:25:18:016: User language: en
+18:25:18:016: Device description: Windows (Desktop)
+18:25:18:016: CPU: GenuineIntel Intel(R) Pentium(R) Silver N5030 CPU @ 1.10GHz (1094 MHz)
+18:25:18:016: Logical CPUs: 4
+18:25:18:017: Physical CPUs: 4
+18:25:18:017: RAM: 8012 MB
+18:25:18:017: JUCE_CATCH_UNHANDLED_EXCEPTIONS is on.
+18:25:18:018: JUCE_LOG_ASSERTIONS is off.
+18:25:18:029: AppProperties(): Properties file is valid and saved successfully: 'C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Settings'
+18:25:18:031: AppProperties(): Properties file reloaded successfully: 'C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Settings'
+18:25:18:033: streamingSampleDataFolder not set (undefined). Setting assetInstallFolder to null...
+18:25:18:035: AudioDeviceSettingsStore: Calling AudioDeviceManager::initialise() with previously selected output: 'Luidsprekers (Realtek(R) Audio)'...
+18:25:19:417: AudioDeviceSettingsStore: AudioDeviceManager::initialise() returned successfully.
+18:25:19:417: setAudioAndMidiProcessingEnabled(true)
+18:25:19:420: StandaloneApp: Creating audio processor...
+18:25:19:433: AudioProcessor::wrapperType: Standalone
+18:25:19:631: Checking overrides...
+18:25:19:633: No overrides found.
+18:25:19:633: Checking overrides...
+18:25:19:634: No overrides found.
+18:25:19:635: InstalledAssetsManager: No installed products.
+18:25:19:648: unlockedPackIDs: { FactoryLibrary }
+18:25:19:651: VersionFeaturesController::versionDisplayText: Free
+18:25:19:653: PluginScanner: starting shallow scan...
+18:25:19:654: PluginScanner: Shallow scanning format: VST...
+18:25:19:658: PluginScanner: Finished shallow scanning format: VST.
+18:25:19:658: PluginScanner: Shallow scan finished.
+18:25:19:659: PluginScanThread starting...
+18:25:19:660: PluginScanThread finished.
+18:25:20:390: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 720, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+18:25:20:398: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 720, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+18:25:20:400: StandaloneApp: Successfully created audio processor.
+18:25:20:400: notifyPlayConfigChanged sampleRate: 48000, samplesPerBlock: 480
+18:25:20:454: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 720, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+18:25:20:460: Error: Width, height and pixel format have to be constant in a rawvideo file, but the width, height or pixel format of the input video changed:
+old: width = 720, height = 1080, format = 畹㑶〲p杲㍢2杢㍲2猥猥氀e慶灡i慮敭渠形潣灭湯湥獴渠形楢獴─ㄭ猱┠搷┠〱dⵤ氾杯弲档潲慭睟㰠‽3獁敳瑲潩⁮猥映楡敬⁤瑡┠㩳搥
+楬慢當楴⽬楰摸獥⹣cⵤ氾杯弲档潲慭桟㰠‽3ⵤ渾形潣灭湯湥獴㰠‽4ⵤ渾浡⁥☦搠㸭慮敭せ]
+new: width = 0, height = 0, format = (null)
+
+18:25:20:508: StandaloneApp: Creating editor component...
+18:25:21:244: StandaloneApp: Created editor component.
+18:25:21:682: Plugin Scan Result: 0 known plugins and 0 failedFiles.
+18:25:51:418: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-14-2022 001.midiculous')
+18:25:51:425: Autosaved to file: 'AutoSave 10-14-2022 001.midiculous'
+18:29:19:135: AppState::saveCurrentPreset('C:\Users\26263\Documents\Gospel Musicians\MIDIculous 4\Presets\User Presets\AutoSave\AutoSave 10-14-2022 001.midiculous')
+18:29:19:144: Autosaved to file: 'AutoSave 10-14-2022 001.midiculous'
+18:43:00:206: Removing logger...

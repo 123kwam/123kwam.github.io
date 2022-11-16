@@ -1,0 +1,64 @@
+
+
+
+
+p {
+  text-align: center;
+  /* text-decoration: underline; */
+  color: black;
+  font-size: 30px;
+  font-style: oblique;
+
+}
+
+ul {
+  color: green;
+}
+
+.vragen {
+
+  background-color: blue;
+  color: white;
+}
+.antwoord:hover {
+
+background-color: white;
+}
+
+
+
+
+.antwoord {
+background-color: green;
+color: black;
+}
+
+
+
+h1 {
+  text-align: center;
+  color: green;
+  border-style: double;
+ border-width: 15px;
+ margin: 70px;
+}
+
+
+img:hover{
+  max-width: 400px;
+
+}
+
+
+h2 {
+  text-align: center;
+
+  border-style: dotted;
+ /* border-width: 15px; */
+ margin: 70px;
+}
+
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6noLIlNL5j8tW_8X_cq2JX98KGpaXtLOdQ&usqp=CAU");
+}

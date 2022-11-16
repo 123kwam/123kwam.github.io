@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="LastSessionCrashed" val=""/>
+  <VALUE name="MIDIculous4_AudioOutputHistory" val="Luidsprekers (Realtek(R) Audio);Hoofdtelefoon (Realtek(R) Audio)"/>
+  <VALUE name="LastPresetOpened" val=""/>
+  <VALUE name="EnabledMidiChannels" val="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1"/>
+  <VALUE name="CustomPluginsFolder" val="&lt;none&gt;"/>
+  <VALUE name="KeyboardViewContainerState">
+    <DetachableViewContainerState isDetached="0"/>
+  </VALUE>
+  <VALUE name="ChordNamesViewContainerState">
+    <DetachableViewContainerState isDetached="0"/>
+  </VALUE>
+  <VALUE name="ScoreViewContainerState">
+    <DetachableViewContainerState isDetached="0"/>
+  </VALUE>
+  <VALUE name="VideoViewViewContainerState">
+    <DetachableViewContainerState isDetached="0"/>
+  </VALUE>
+  <VALUE name="GUIScaleFactor" val="0.3290629575402635"/>
+  <VALUE name="PersistentStates">
+    <PersistentStates>
+      <ACCESSORY_STATE id="ParameterState">
+        <ParameterState>
+          <StateItem Value="0" id="AudioChannelMute"/>
+          <StateItem Value="0" id="AudioChannelSolo"/>
+          <StateItem Value="0.632" id="AudioChannelVolume"/>
+          <StateItem Value="0.5" id="BKeyManual1Drawbar1"/>
+          <StateItem Value="0.5" id="BKeyManual1Drawbar16"/>
+          <StateItem Value="0.5" id="BKeyManual1Drawbar1_1_3"/>
+          <StateItem Value="0.5" id="BKeyManual1Drawbar1_3_5"/>
+          <StateItem Value="0.5" id="BKeyManual1Drawbar2"/>
+          <StateItem Value="0.5" id="BKeyManual1Drawbar2_2_3"/>
+          <StateItem Value="0.5" id="BKeyManual1Drawbar4"/>
+          <StateItem Value="0.5" id="BKeyManual1Drawbar5_1_3"/>
+          <StateItem Value="0.5" id="BKeyManual1Drawbar8"/>
+          <StateItem Value="0.5" id="BKeyManual2Drawbar1"/>
+          <StateItem Value="0.5" id="BKeyManual2Drawbar16"/>
+          <StateItem Value="0.5" id="BKeyManual2Drawbar1_1_3"/>
+          <StateItem Value="0.5" id="BKeyManual2Drawbar1_3_5"/>
+          <StateItem Value="0.5" id="BKeyManual2Drawbar2"/>
+          <StateItem Value="0.5" id="BKeyManual2Drawbar2_2_3"/>
+          <StateItem Value="0.5" id="BKeyManual2Drawbar4"/>
+          <StateItem Value="0.5" id="BKeyManual2Drawbar5_1_3"/>
+          <StateItem Value="0.5" id="BKeyManual2Drawbar8"/>
+          <StateItem Value="0.5" id="BassDrawbar16"/>
+          <StateItem Value="0.5" id="BassDrawbar18"/>
+          <StateItem Value="1111111111111111" id="BassMidiInChannelMask"/>
+          <StateItem Value="1111111111111111" id="BassPlaybackMidiChannelMask"/>
+          <StateItem Value="36" id="BassdrumMidiNote"/>
+          <StateItem Value="0.5" id="BbKeyManual1Drawbar1"/>
+          <StateItem Value="0.5" id="BbKeyManual1Drawbar16"/>
+          <StateItem Value="0.5" id="BbKeyManual1Drawbar1_1_3"/>
+          <StateItem Value="0.5" id="BbKeyManual1Drawbar1_3_5"/>
+          <StateItem Value="0.5" id="BbKeyManual1Drawbar2"/>
+          <StateItem Value="0.5" id="BbKeyManual1Drawbar2_2_3"/>
+          <StateItem Value="0.5" id="BbKeyManual1Drawbar4"/>
+          <StateItem Value="0.5" id="BbKeyManual1Drawbar5_1_3"/>
+          <StateItem Value="0.5" id="BbKeyManual1Drawbar8"/>
+          <StateItem Value="0.5" id="BbKeyManual2Drawbar1"/>
+          <StateItem Value="0.5" id="BbKeyManual2Drawbar16"/>
+          <StateItem Value="0.5" id="BbKeyManual2Drawbar1_1_3"/>
+          <StateItem Value="0.5" id="BbKeyManual2Drawbar1_3_5"/>
+          <StateItem Value="0.5" id="BbKeyManual2Drawbar2"/>
+          <StateItem Value="0.5" id="BbKeyManual2Drawbar2_2_3"/>
+          <StateItem Value="0.5" id="BbKeyManual2Drawbar4"/>
+          <StateItem Value="0.5" id="BbKeyManual2Drawbar5_1_3"/>
+          <StateItem Value="0.660033" id="BbKeyManual2Drawbar8"/>
+          <StateItem Value="0" id="BrakeSpeed"/>
+          <StateItem Value="0" id="BrakeSpeed3Positions"/>
+          <StateItem Value="10" id="Channel10GMSound"/>
+          <StateItem Value="GMSound" id="Channel10Instrument"/>
+          <StateItem Value="0" id="Channel10Mute"/>
+          <StateItem Value="0" id="Channel10Solo"/>
+          <StateItem Value="1" id="Channel10Volume"/>
+          <StateItem Value="11" id="Channel11GMSound"/>
+          <StateItem Value="GMSound" id="Channel11Instrument"/>
+          <StateItem Value="0" id="Channel11Mute"/>
+          <StateItem Value="0" id="Channel11Solo"/>
+          <StateItem Value="1" id="Channel11Volume"/>
+          <StateItem Value="12" id="Channel12GMSound"/>
+          <StateItem Value="GMSound" id="Channel12Instrument"/>
+          <StateItem Value="0" id="Channel12Mute"/>
+          <StateItem Value="0" id="Channel12Solo"/>
+          <StateItem Value="1" id="Channel12Volume"/>
+          <StateItem Value="13" id="Channel13GMSound"/>
+          <StateItem Value="GMSound" id="Channel13Instrument"/>
+          <StateItem Value="0" id="Channel13Mute"/>
+          <StateItem Value="0" id="Channel13Solo"/>
+          <StateItem Value="1" id="Channel13Volume"/>
+          <StateItem Value="14" id="Channel14GMSound"/>
+          <StateItem Value="GMSound" id="Channel14Instrument"/>
+          <StateItem Value="0" id="Channel14Mute"/>
+          <StateItem Value="0" id="Channel14Solo"/>
+          <StateItem Value="1" id="Channel14Volume"/>
+          <StateItem Value="15" id="Channel15GMSound"/>
+          <StateItem Value="GMSound" id="Channel15Instrument"/>
+          <StateItem Value="0" id="Channel15Mute"/>
+          <StateItem Value="0" id="Channel15Solo"/>
+          <StateItem Value="1" id="Channel15Volume"/>
+          <StateItem Value="16" id="Channel16GMSound"/>
+          <StateItem Value="GMSound" id="Channel16Instrument"/>
+          <StateItem Value="0" id="Channel16Mute"/>
+          <StateItem Value="0" id="Channel16Solo"/>
+          <StateItem Value="1" id="Channel16Volume"/>
+          <StateItem Value="1" id="Channel1GMSound"/>
+          <StateItem Value="GMSound" id="Channel1Instrument"/>
+          <StateItem Value="0" id="Channel1Mute"/>
+          <StateItem Value="0" id="Channel1Solo"/>
+          <StateItem Value="1" id="Channel1Volume"/>
+          <StateItem Value="1" id="Channel2GMSound"/>
+          <StateItem Value="GMSound" id="Channel2Instrument"/>
+          <StateItem Value="0" id="Channel2Mute"/>
+          <StateItem Value="0" id="Channel2Solo"/>
+          <StateItem Value="1" id="Channel2Volume"/>
+          <StateItem Value="1" id="Channel3GMSound"/>
+          <StateItem Value="GMSound" id="Channel3Instrument"/>
+          <StateItem Value="0" id="Channel3Mute"/>
+          <StateItem Value="0" id="Channel3Solo"/>
+          <StateItem Value="1" id="Channel3Volume"/>
+          <StateItem Value="1" id="Channel4GMSound"/>
+          <StateItem Value="GMSound" id="Channel4Instrument"/>
+          <StateItem Value="0" id="Channel4Mute"/>
+          <StateItem Value="0" id="Channel4Solo"/>
+          <StateItem Value="1" id="Channel4Volume"/>
+          <StateItem Value="5" id="Channel5GMSound"/>
+          <StateItem Value="GMSound" id="Channel5Instrument"/>
+          <StateItem Value="0" id="Channel5Mute"/>
+          <StateItem Value="0" id="Channel5Solo"/>
+          <StateItem Value="1" id="Channel5Volume"/>
+          <StateItem Value="6" id="Channel6GMSound"/>
+          <StateItem Value="GMSound" id="Channel6Instrument"/>
+          <StateItem Value="0" id="Channel6Mute"/>
+          <StateItem Value="0" id="Channel6Solo"/>
+          <StateItem Value="1" id="Channel6Volume"/>
+          <StateItem Value="7" id="Channel7GMSound"/>
+          <StateItem Value="GMSound" id="Channel7Instrument"/>
+          <StateItem Value="0" id="Channel7Mute"/>
+          <StateItem Value="0" id="Channel7Solo"/>
+          <StateItem Value="1" id="Channel7Volume"/>
+          <StateItem Value="8" id="Channel8GMSound"/>
+          <StateItem Value="GMSound" id="Channel8Instrument"/>
+          <StateItem Value="0" id="Channel8Mute"/>
+          <StateItem Value="0" id="Channel8Solo"/>
+          <StateItem Value="1" id="Channel8Volume"/>
+          <StateItem Value="9" id="Channel9GMSound"/>
+          <StateItem Value="GMSound" id="Channel9Instrument"/>
+          <StateItem Value="0" id="Channel9Mute"/>
+          <StateItem Value="0" id="Channel9Solo"/>
+          <StateItem Value="1" id="Channel9Volume"/>
+          <StateItem Value="V3" id="ChorusMode"/>
+          <StateItem Value="Orange" id="CrashCymbalColour"/>
+          <StateItem Value="49" id="CrashCymbalMidiNote"/>
+          <StateItem Value="88" id="DetachedKeyboardNumKeys"/>
+          <StateItem Value="0" id="DriveAmount"/>
+          <StateItem Value="0" id="FastDycEnabled"/>
+          <StateItem Value="0" id="Har3rdEnabled"/>
+          <StateItem Value="Orange" id="HiHatCymbalsColour"/>
+          <StateItem Value="42" id="HiHatCymbalsMidiNote"/>
+          <StateItem Value="44" id="HiHatPedalMidiNote"/>
+          <StateItem Value="Orange" id="HighTomColour"/>
+          <StateItem Value="48" id="HighTomMidiNote"/>
+          <StateItem Value="NoSplit" id="KeyboardSplitMode"/>
+          <StateItem Value="0" id="LoopEnabled"/>
+          <StateItem Value="Orange" id="LowTomColour"/>
+          <StateItem Value="41" id="LowTomMidiNote"/>
+          <StateItem Value="1" id="Manual1BottomOctaveNoteChannel"/>
+          <StateItem Value="false" id="Manual1BottomOctaveNoteIsMidiIn"/>
+          <StateItem Value="34" id="Manual1BottomOctaveNoteNumber"/>
+          <StateItem Value="1111111111111111" id="Manual1MidiInChannelMask"/>
+          <StateItem Value="1111111111111111" id="Manual1PlaybackMidiChannelMask"/>
+          <StateItem Value="0" id="Manual1Vibrato"/>
+          <StateItem Value="1" id="Manual2BottomOctaveNoteChannel"/>
+          <StateItem Value="false" id="Manual2BottomOctaveNoteIsMidiIn"/>
+          <StateItem Value="34" id="Manual2BottomOctaveNoteNumber"/>
+          <StateItem Value="1111111111111111" id="Manual2MidiInChannelMask"/>
+          <StateItem Value="1111111111111111" id="Manual2PlaybackMidiChannelMask"/>
+          <StateItem Value="0" id="Manual2Vibrato"/>
+          <StateItem Value="1" id="MasterVolume"/>
+          <StateItem Value="Orange" id="MidTomColour"/>
+          <StateItem Value="45" id="MidTomMidiNote"/>
+          <StateItem Value="0" id="MidiInChannelFirstMidiChannel"/>
+          <StateItem Value="1" id="MidiInChannelGMSound"/>
+          <StateItem Value="GMSound" id="MidiInChannelInstrument"/>
+          <StateItem Value="0" id="MidiInChannelMute"/>
+          <StateItem Value="0" id="MidiInChannelSecondMidiChannel"/>
+          <StateItem Value="0" id="MidiInChannelSolo"/>
+          <StateItem Value="1" id="MidiInChannelVolume"/>
+          <StateItem Value="0" id="Octave"/>
+          <StateItem Value="0" id="PercEnabled"/>
+          <StateItem Value="0" id="ReverbAmount"/>
+          <StateItem Value="Orange" id="RideCymbal1Colour"/>
+          <StateItem Value="51" id="RideCymbal1MidiNote"/>
+          <StateItem Value="Orange" id="RideCymbal2Colour"/>
+          <StateItem Value="59" id="RideCymbal2MidiNote"/>
+          <StateItem Value="0" id="RotatorSpeed"/>
+          <StateItem Value="0" id="RotatorSpeed3Positions"/>
+          <StateItem Value="0" id="ScoreViewFullHeightMode"/>
+          <StateItem Value="Orange" id="SnareColour"/>
+          <StateItem Value="38" id="SnareMidiNote"/>
+          <StateItem Value="0" id="SoftVolEnabled"/>
+          <StateItem Value="Orange" id="SplashCymbalColour"/>
+          <StateItem Value="55" id="SplashCymbalMidiNote"/>
+          <StateItem Value="C3" id="SplitKey"/>
+          <StateItem Value="Keyboard" id="VirtualInstrument"/>
+          <StateItem Value="0.5" id="VolumePedal"/>
+        </ParameterState>
+      </ACCESSORY_STATE>
+      <ACCESSORY_STATE id="Playlist">
+        <Playlist activeItemID="0c07e05a5be047cc88b354dc5d753f40" activeLoopPointID="00000000000000000000000000000000">
+          <PlaylistItem fileHandle="C:\Users\26263\Downloads\Cory Henry It Is well, chords revealed (3).lmv"
+                        id="0c07e05a5be047cc88b354dc5d753f40" originalBPM="120.0" keySignature="C Maj"
+                        timeSignature="4/4" speed="1.0" pitchOffset="-12"/>
+          <PlaylistItem fileHandle="C:\Users\26263\Downloads\Richard Tubbs LMV (1).lmv"
+                        id="b9ac88011d454bc69a67644f5b9c7a32" originalBPM="120.0" keySignature="Ab Maj"
+                        timeSignature="4/4" pitchOffset="-3"/>
+          <PlaylistItem fileHandle="C:\Users\26263\Downloads\Richard Tubbs LMV.lmv" id="048ccc14e1d2448f96fd95b94c22f396"
+                        originalBPM="120.0" keySignature="Ab Maj" timeSignature="4/4"/>
+        </Playlist>
+      </ACCESSORY_STATE>
+      <ACCESSORY_STATE id="HostedPluginDescriptions">
+        <HostedPluginDescriptions/>
+      </ACCESSORY_STATE>
+      <ACCESSORY_STATE id="PluginStateInformations">
+        <PluginStateInformations/>
+      </ACCESSORY_STATE>
+    </PersistentStates>
+  </VALUE>
+  <VALUE name="PluginScannerState" val="250.3wYwRtzRCCDEEdeg9e3xrRWXqJtPjD6hVhDrMMvjV2jMiYtMdg4QXdn0+8NXWoPghH5xy4x4C9fa1r8ZE7J57j0jytZxkL.McVIY5yYaZJt3V1r6GOZ7nrGqV+TU8xMOTVwSM.jweQnT12pUwdxr.8cNZHj3.Ce1TXcZQnRnwb1VdCC1QJbsqThl.siPWNa9cs0NauSnghzQe6bqVm.bHjFccawRfGhRxBoHMQpTLPR9Ak38Fbe3GyvGDgnOmUYC7NgwfR1z+MsfyVEUA57eC89Jq+TM4AjLOit91s9vAv91UkKJ6hJazC2bJ9chPNhXYS+1e5G.Cc4+1."/>
+  <VALUE name="VirtualOrganDetachWindowState">
+    <WindowState bounds="326 232 963 717" isDraggable="1" isResizable="1" isAlwaysOnTop="0"/>
+  </VALUE>
+  <VALUE name="OrganTemplateBrowserLeftColumnGUIState">
+    <SegmentedItemListGuiState>
+      <SegmentOrder>
+        <Segment id="UserOrganTemplates-BA386CD4-1F44-47F2-909C-BE8D8F1856D2"/>
+      </SegmentOrder>
+    </SegmentedItemListGuiState>
+  </VALUE>
+  <VALUE name="ParentFolderOfLastMediaFileOpened" val="C:\Users\26263\Downloads"/>
+  <VALUE name="BassViewContainerState">
+    <DetachableViewContainerState isDetached="0"/>
+  </VALUE>
+  <VALUE name="GuitarAndBassStyleScoreTranspose" val="true"/>
+  <VALUE name="GuitarStringAssignment" val="ChannelPerStringDescending"/>
+  <VALUE name="Channel2FirstColour" val="ff0064ff"/>
+  <VALUE name="Channel3FirstColour" val="ff0064ff"/>
+  <VALUE name="Channel4FirstColour" val="ff0064ff"/>
+  <VALUE name="Channel2SecondColour" val="ff0064ff"/>
+  <VALUE name="Channel3SecondColour" val="ff0064ff"/>
+  <VALUE name="Channel4SecondColour" val="ff0064ff"/>
+  <VALUE name="KeyboardLook" val="RealKeys"/>
+</PROPERTIES>
